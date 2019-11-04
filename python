@@ -1,0 +1,3 @@
+#!/bin/bash 
+# This script disable the date and who's logged on
+sh /opt/pycharm-community-2019.2.3/bin/pycharm.sh &
